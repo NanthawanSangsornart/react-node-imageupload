@@ -38,7 +38,7 @@ function App () {
 
   return(
       <div className="container mr-60">
-          <h3 className="text-white">React Image Upload And Preview Using Node Js - <span> codeat21.com </span> </h3>
+          <h3 className="text-white">React Image Upload And Preview Using Node Js! - <span> codeat21.com </span> </h3>
 
           <div className="formdesign">
               {isSucces !== null ? <h4> {isSucces} </h4> :null }
